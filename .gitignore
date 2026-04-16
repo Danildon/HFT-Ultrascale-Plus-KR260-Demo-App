@@ -1,0 +1,13 @@
+build/
+build_arm64/
+vivado_project/
+*.bit
+*.jou
+*.log
+*.str
+*.o
+*.a
+*.vcd
+hft_kr260_bench
+compile_commands.json
+__pycache__/
